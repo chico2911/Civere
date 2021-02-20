@@ -28,9 +28,9 @@ Este projeto nasce de um brainstorming para a Laboratórios de Informática IV, 
 * [José Pinto](https://github.com/ZePinto99)
 
 
-### [Apresentação](https://github.com/chico2911/Civere/tree/master/docs/apresentacao.pdf)
+### [Apresentação](https://github.com/chico2911/Civere/blob/master/docs/apresentacao.pdf)
 
-### [Relatório](https://github.com/chico2911/Civere/tree/master/docs/relatorio.pdf)
+### [Relatório](https://github.com/chico2911/Civere/blob/master/docs/relatorio.pdf)
 
 ### Agradecimentos
 
