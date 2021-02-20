@@ -6,10 +6,10 @@
 ## Projeto Inserido na Unidade Curricular Laboratórios de Informática IV 2019/2020
 ### [Mestrado Integrado em Engenhária Informática na Universidade do Minho](https://miei.di.uminho.pt/)
 
-O nome **Civere** deriva de **Civita** e **Peregrinandum**, palavras em latim que significam, respetivamente cidade e excursão. De facto a Civere é nada mais, nada menos que um serviço aplicacional móvel que permite aos utilizadores explorar as variádas cidades disponíveis. Contando com um catálogo de Restaurantes, Hoteis e Monumentos, bem como um servicço freelancer de visitas turísticas, a Civere torna-se uma ferramenta de extrema necessidade para viajantes destemídos que pretendem explorar e conhecer. 
+O nome **Civere** deriva de **Civita** e **Peregrinandum**, palavras em latim que significam, respetivamente cidade e excursão. De facto a Civere é nada mais, nada menos que um serviço aplicacional móvel que permite aos utilizadores explorar as variádas cidades disponíveis. Contando com um catálogo de Restaurantes, Hoteis e Monumentos, bem como um serviço freelancer de visitas turísticas, a Civere torna-se uma ferramenta de extrema necessidade para viajantes destemídos que pretendem explorar e conhecer. 
 
 
-![](https://github.com/chico2911/Civere/blob/master/images/frontend.gif)
+![](https://github.com/chico2911/Civere/blob/main/images/frontend.gif)
 
 
 Este projeto nasce de um brainstorming para a Laboratórios de Informática IV, foi construida utilizando **C#** para criar um serviço REST de dados e [**Android Studio**](https://developer.android.com/studio), para o desenvolvimento, em **Java**, da aplicação móvel. Foram utilizados **SQL** para persistência de dados e [**Json Web Token**](https://jwt.io) para garantir segurança aos utilizadores, bem como aos serviços implementados.
