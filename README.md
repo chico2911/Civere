@@ -14,9 +14,9 @@ O nome **Civere** deriva de **Civita** e **Peregrinandum**, palavras em latim qu
 
 Este projeto nasce de um brainstorming para a Laboratórios de Informática IV, foi construida utilizando **C#** para criar um serviço REST de dados e [**Android Studio**](https://developer.android.com/studio), para o desenvolvimento, em **Java**, da aplicação móvel. Foram utilizados **SQL** para persistência de dados e [**Json Web Token**](https://jwt.io) para garantir segurança aos utilizadores, bem como aos serviços implementados.
 
-* [Frontend](https://github.com/chico2911/Civere/tree/master/Civere13)
-* [Backend](https://github.com/chico2911/Civere/tree/master/Server)
-* [Database](https://github.com/chico2911/Civere/tree/master/Base%20de%20Dados)
+* [Frontend](https://github.com/chico2911/Civere/tree/Civere13)
+* [Backend](https://github.com/chico2911/Civere/tree/Server)
+* [Database](https://github.com/chico2911/Civere/tree/Base%20de%20Dados)
 
 
 ## Development Team
@@ -28,9 +28,9 @@ Este projeto nasce de um brainstorming para a Laboratórios de Informática IV, 
 * [José Pinto](https://github.com/ZePinto99)
 
 
-### [Apresentação](https://github.com/chico2911/Civere/blob/master/docs/apresentacao.pdf)
+### [Apresentação](https://github.com/chico2911/Civere/blob/docs/apresentacao.pdf)
 
-### [Relatório](https://github.com/chico2911/Civere/blob/master/docs/relatorio.pdf)
+### [Relatório](https://github.com/chico2911/Civere/blob/docs/relatorio.pdf)
 
 ### Agradecimentos
 
