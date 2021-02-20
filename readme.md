@@ -9,7 +9,7 @@
 O nome **Civere** deriva de **Civita** e **Peregrinandum**, palavras em latim que significam, respetivamente cidade e excursão. De facto a Civere é nada mais, nada menos que um serviço aplicacional móvel que permite aos utilizadores explorar as variádas cidades disponíveis. Contando com um catálogo de Restaurantes, Hoteis e Monumentos, bem como um serviço freelancer de visitas turísticas, a Civere torna-se uma ferramenta de extrema necessidade para viajantes destemídos que pretendem explorar e conhecer. 
 
 
-<img src="https://github.com/chico2911/Civere/blob/main/images/frontend.gif" alt="Databay showcase gif" title="Databay showcase gif" style="width:50%; height: 50%"/>
+<img src="https://github.com/chico2911/Civere/blob/main/images/frontend.gif" alt="Databay showcase gif" title="Databay showcase gif" width=50% height= 50%/>
 
 
 Este projeto nasce de um brainstorming para a Laboratórios de Informática IV, foi construida utilizando **C#** para criar um serviço REST de dados e [**Android Studio**](https://developer.android.com/studio), para o desenvolvimento, em **Java**, da aplicação móvel. Foram utilizados **SQL** para persistência de dados e [**Json Web Token**](https://jwt.io) para garantir segurança aos utilizadores, bem como aos serviços implementados.
