@@ -1,10 +1,10 @@
-<p align="center">
-   <img src="https://github.com/chico2911/Civere/blob/main/images/logo.jpg">
-</p>
-
 # CIVERE
 ## Projeto Inserido na Unidade Curricular Laboratórios de Informática IV 2019/2020
 ### [Mestrado Integrado em Engenharia Informática na Universidade do Minho](https://miei.di.uminho.pt/)
+
+<p align="center">
+   <img src="https://github.com/chico2911/Civere/blob/main/images/logo.jpg">
+</p>
 
 O nome **Civere** deriva de **Civita** e **Peregrinandum**, palavras em latim que significam, respetivamente cidade e excursão. De facto a Civere é nada mais, nada menos que um serviço aplicacional móvel que permite aos utilizadores explorar as variádas cidades disponíveis. Contando com um catálogo de Restaurantes, Hoteis e Monumentos, bem como um serviço freelancer de visitas turísticas, a Civere torna-se uma ferramenta de extrema necessidade para viajantes destemídos que pretendem explorar e conhecer. 
 
